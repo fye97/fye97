@@ -11,26 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Oct. 2022 – Oct. 2023, Visiting Ph.D. Student, Department of Electrical and Computer Engineering, University of Victoria, Victoria, Canada
+* Sept. 2019 – Jun. 2024, Ph.D., School of Automation, Southeast University, Nanjing, China
+* Sept. 2015 – Jun. 2019, B.S., College of Information Science and Engineering, Northeastern University, Shenyang, China
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sept. 2024 – Now, Post-Doctoral Fellow
+  * Department of Electrical and Computer Engineering, University of Victoria, Victoria, Canada
   
 Skills
 ======
@@ -61,4 +50,25 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
+Journal Review
+------
+Automatica
+IEEE Transactions on Automatic Control
+IEEE Transactions on Control of Network Systems
+IEEE Transactions on Information Forensics and Security
+IEEE Transactions on Industrial Electronics
+IEEE Transactions on Industrial Informatics
+IEEE Internet of Things Journal
+IEEE Network Magazine
+IEEE/CAA Journal of Automatica Sinica
+
+Conference Review
+------
+IEEE Conference on Decision and Control (CDC)
+IFAC World Congress
+American Control Conference (ACC)
+European Control Conference (ECC)
+IEEE Conference on Control Technology and Applications (CCTA)
+China Automation Congress (CAC)
+
