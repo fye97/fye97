@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can also find my articles on [my Google Scholar profile]("https://scholar.google.com/citations?user=uBZbqDsAAAAJ&hl=en").
+
 Journal Papers
 ------
 * **F. Ye**, X. Cao, M.-Y. Chow, and Lin Cai, “Privacy-Preserving Average Consensus: Fundamental Analysis and a Generic Framework Design,” _IEEE Transactions on Information Theory_, 70, no. 4, pp. 2870-2885, 2024.
