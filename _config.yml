@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-CA"
-title                    : "Feng Ye"
+title                    : "Welcome to Feng Ye's Homepage"
 title_separator          : "-"
 name                     : &name "Feng Ye"
 description              : &description "personal description"
 url                      : https://fye97.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "fye97.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Feng Ye"
   pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Post-Doctoral Fellow, Ph.D., IEEE Member"
+  location         : "Victoria, BC, Canada"
   employer         : "University of Victoria"
   uri              : # URL
   email            : "yefengleaf97@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=uBZbqDsAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8949-7089"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
