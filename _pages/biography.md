@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Oct. 2022 – Oct. 2023, Visiting Ph.D. Student, Department of Electrical and Computer Engineering, University of Victoria, Victoria, Canada
