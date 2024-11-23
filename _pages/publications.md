@@ -21,5 +21,5 @@ Journal Papers
 Conference Proceedings
 ------
 * `IESES 2020` **F. Ye**, Z. Cheng, X. Cao, and M.-Y. Chow, “[A Random-Weighted Privacy-Preserving Distributed Algorithm for Energy Management in Microgrid with Energy Storage Devices](https://ieeexplore.ieee.org/document/9210675),” _2020 2nd IEEE International Conference on Industrial Electronics for Sustainable Energy Systems (IESES)_, 2020, pp. 249-254.
-* 'IECON 2021' N. Hang, **F. Ye**, Z. Cheng, X. Cao, and M.-Y. Chow, “[Simulating and Evaluating Privacy Issues in Distributed Microgrids: A Cyber-Physical Co-Simulation Platform](https://ieeexplore.ieee.org/document/9589187),” _IECON 2021 – 47th Annual Conference of the IEEE Industrial Electronics Society_, 2021.
+* `IECON 2021` N. Hang, **F. Ye**, Z. Cheng, X. Cao, and M.-Y. Chow, “[Simulating and Evaluating Privacy Issues in Distributed Microgrids: A Cyber-Physical Co-Simulation Platform](https://ieeexplore.ieee.org/document/9589187),” _IECON 2021 – 47th Annual Conference of the IEEE Industrial Electronics Society_, 2021.
   
