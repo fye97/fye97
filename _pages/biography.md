@@ -19,6 +19,6 @@ Education
 
 Work experience
 ======
-* `Sept. 2024 – Now` **Post-Doctoral Fellow**
+* `Sept. 2024 – Present` **Post-Doctoral Fellow**
   * Department of Electrical and Computer Engineering, [University of Victoria](https://www.uvic.ca/), Victoria, Canada
   
