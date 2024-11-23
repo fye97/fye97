@@ -22,7 +22,12 @@ Awards
 
 Service and leadership
 ======
-Journal Review
+Professional Activities
+------
+* Member, IEEE, 2024 - Present
+* Graduate Student Member, IEEE, 2020 - 2023
+
+Peer Review
 ------
 * Automatica
 * IEEE Transactions on Automatic Control
@@ -34,12 +39,4 @@ Journal Review
 * IEEE Network Magazine
 * IEEE/CAA Journal of Automatica Sinica
 
-Conference Review
-------
-* IEEE Conference on Decision and Control (CDC)
-* IFAC World Congress
-* American Control Conference (ACC)
-* European Control Conference (ECC)
-* IEEE Conference on Control Technology and Applications (CCTA)
-* China Automation Congress (CAC)
 
