@@ -9,14 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+
 Awards
 ======
 * People’s Choice Award, _Workshop on Future Ubiquitous Networks 2023 - Spring_, IEEE Victoria Section Joint VTS/ComSoc Chapter, Canada, May 2023
 * Meritorious Winner Award, _Mathematical Contest in Modeling_, the Consortium for Mathematics and Its Applications, USA, Apr. 2018 
 
+
+
+
 Service and leadership
 ======
-
 Journal Review
 ------
 * Automatica
