@@ -21,7 +21,7 @@ repository               : "fye97.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo_yef.png"
   name             : "Feng Ye"
   pronouns         : "he/his"  
   bio              : "Post-Doctoral Fellow, Ph.D., IEEE Member"
