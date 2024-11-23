@@ -22,6 +22,7 @@ Awards
 
 Service and leadership
 ======
+
 Professional Activities
 ------
 * Member, IEEE, 2024 - Present
