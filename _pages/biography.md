@@ -51,7 +51,6 @@ Teaching
   
 Service and leadership
 ======
-
 Journal Review
 ------
 * Automatica
